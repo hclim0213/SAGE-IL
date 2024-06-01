@@ -1,5 +1,6 @@
 # SAGE-IL
 Scoring-Assisted Generative Exploration for Ionic Liquids (SAGE-IL)
+![Figure 1](https://github.com/hclim0213/SAGE-IL/assets/48709737/162845c3-cf6b-4a5d-bdba-b53975d4145b)
 
 What is SAGE-IL?
 ----------------
