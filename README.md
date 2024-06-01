@@ -4,7 +4,9 @@ Scoring-Assisted Generative Exploration for Ionic Liquids (SAGE-IL)
 
 What is SAGE-IL?
 ----------------
-**Scoring-Assisted Generative Exploration for Ionic Liquids (SAGE-IL)** is the extended version of [Scoring-Assisted Generative Exploration](https://github.com/hclim0213/SAGE/tree/main) for ionic liquids (ILs) by generating ILs through nautural language processing techniques (LSTM, Transformer, and Transformer Decoder) and evaluating them with multiple QSPR models for key physicochemical properties relevant to CO2 capture.
+**Scoring-Assisted Generative Exploration for Ionic Liquids (SAGE-IL)** is an advanced extension of [Scoring-Assisted Generative Exploration](https://github.com/hclim0213/SAGE/tree/main), specifically tailored for ionic liquids (ILs).
+It employs natural language processing techniques, including LSTM, Transformer, and Transformer Decoder, to generate ILs. 
+These generated ILs are then evaluated using multiple QSPR models to assess key physicochemical properties relevant to CO2 capture.
 
 # Notes
 This is additional supplementary data in "Extension of Scoring-Assisted Generative Exploration for Ionic Liquids (SAGE-IL) and Its Application to Ionic Liquid Design for CO2 Capture"
